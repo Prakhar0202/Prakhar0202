@@ -1,9 +1,22 @@
 <img align="center" width=2000  alt="Coding" src="https://miro.medium.com/v2/resize:fit:1400/1*IPZto_chtq-97A2J7gKjLA.gif">
-<b><b>
-<img align="right" alt="Coding" width=400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8MV46QbiWWP-WTLdXj_6fZUxPL9pm1WcTvg&s"> 
+
+  <br>
+<h1>Hi there! I'm Prakhar Verma<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></h1>
+<br>
+ A dedicated coder passionate about leveraging technology to solve real-world problems. Currently diving deep into React and front-end development, I thrive on building elegant solutions that make a difference. Let's connect and innovate together! 
+    <br><br>
+
+<img align="right" alt="Coding" width=400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8MV46QbiWWP-WTLdXj_6fZUxPL9pm1WcTvg&s">   <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar0202&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar0202" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
+
+- 👨‍💻 Dedicated to coding for impact and innovation.
+
+- 🔧 Passionate about tech and its transformative power.
+
+- 🔎 Exploring React to craft compelling web experiences.
 
 - 💬 Ask me about **ReactJs,Flutter**
 
